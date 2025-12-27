@@ -6,7 +6,8 @@ I focus on actionable insights, automation, and delivering measurable impact at 
 
 ### About Me
 🎯 Senior Data Scientist & AI Consultant with 6+ years of experience, building and deploying smart AI systems for enterprises.
-🎓 Alumnus of Indian Institute of Technology, Roorkee & Indian Institute of Management, Calcutta 🔭 Passionate about Generative AI, MLOps, and designing intelligent, scalable data systems.
+🎓 Alumnus of Indian Institute of Technology, Roorkee & Indian Institute of Management, Calcutta 
+🔭 Passionate about Generative AI, MLOps, and designing intelligent, scalable data systems.
 🌱 Open to collaboration and new ideas in AI, data science, and machine learning workflows.
 
 ### What I work on
