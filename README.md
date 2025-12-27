@@ -1,8 +1,13 @@
 ## Hi, I'm Sandesh 👋
 
 I build AI-driven data science and generative AI solutions that solve real-world business problems.  
-Most of my work is hands-on: scalable AI workflows, multi-agent systems, RAG-powered APIs, and ML model deployments.  
+Most of my work is hands-on: scalable AI workflows, multi-agent systems, RAG-powered APIs, and ML model deployments.
 I focus on actionable insights, automation, and delivering measurable impact at scale.
+
+About Me
+🎯 Senior Data Scientist & AI Consultant with 6+ years of experience, building and deploying smart AI systems for enterprises.
+🎓 Alumnus of Indian Institute of Technology, Roorkee & Indian Institute of Management, Calcutta 🔭 Passionate about Generative AI, MLOps, and designing intelligent, scalable data systems.
+🌱 Open to collaboration and new ideas in AI, data science, and machine learning workflows.
 
 ### What I work on
 
