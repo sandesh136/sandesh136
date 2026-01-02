@@ -44,7 +44,7 @@ I am a Product-focused AI Engineer (IIT/IIM Alumnus) with 6+ years of experience
 ---
 
 ### 📊 Engineering Leadership & Collaboration
-* **Cross-Functional Communication:** Proven track record of translating complex technical AI constraints into actionable product roadmaps for C-suite executives.
+* **Cross-Functional Communication:** Proven track record of translating complex AI constraints into actionable roadmaps for Product Leaders and Business Stakeholders.
 * **Production Excellence:** Focused on **99.9% API uptime** and 30% reduction in model latency for enterprise-grade deployments.
 * **Cost Efficiency:** Optimized AWS serverless pipelines, reducing cloud compute costs by **25%**.
 
@@ -55,8 +55,3 @@ I am a **Stamped H1B Holder** ready for transfer or travel for US-based and glob
 
 * 📧 **Email:** [sandesh.keshwani@gmail.com](mailto:sandesh.keshwani@gmail.com)
 * 💼 **Looking for:** Senior AI Engineer / AI Product Architect roles.
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandesh136&show_icons=true&theme=tokyonight" alt="Sandesh's Stats" />
-</p>
