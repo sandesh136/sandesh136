@@ -10,7 +10,7 @@
 ### 🚀 The Bridge Between Code & ROI
 I am a Product-focused AI Engineer (IIT/IIM Alumnus) with 6+ years of experience. My expertise lies in building **Agentic Workflows** and **Voice AI** that don't just work in notebooks, but deliver **measurable business results** in production environments.
 
-> **Key Impact:** Automated 50% of complex operational workflows for Fortune 500 banks by bridging the gap between engineering and business strategy.
+> **Key Impact:** Automated 50% of complex operational workflows for Fortune 500 clients by bridging the gap between engineering and business strategy.
 
 ---
 
@@ -18,9 +18,9 @@ I am a Product-focused AI Engineer (IIT/IIM Alumnus) with 6+ years of experience
 
 | AI & Engineering | Product & Cross-Functional |
 | :--- | :--- |
-| **Generative AI:** LangGraph, RAG, Claude 3.5, Gemini 3.0 | **Product Analytics:** Segment, Amplitude, A/B Testing |
+| **Generative AI:** LangGraph, RAG, Claude Opus 4.5, Gemini 3.0 | **Product Analytics:** Segment, Amplitude, A/B Testing |
 | **Voice AI:** LiveKit, ElevenLabs, Deepgram | **Infrastructure:** AWS (Lambda, Step Functions), Docker |
-| **Machine Learning:** XGBoost, LightGBM, Causal Inference | **Data Strategy:** ETL Pipelines, Tableau, SQL (Advanced) |
+| **Machine Learning:** XGBoost, LightGBM | **Data Strategy:** ETL Pipelines, Tableau, SQL (Advanced) |
 
 ---
 
