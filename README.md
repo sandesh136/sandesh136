@@ -1,4 +1,4 @@
-# 🧠 Sandesh Keshwani | Senior AI Engineer
+# 🧠 Sandesh Keshwani | Senior Product Strategist & AI Engineer
 **Architecting Production-Grade GenAI & High-Impact Data Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/skprivate/)
